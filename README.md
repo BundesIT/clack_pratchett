@@ -1,4 +1,4 @@
-# clack-pratchet
+# clack-pratchett
 A trafficserver plugin to honor Terry Pratchett.
 
 This plugin was inspired by @nerdcore:
